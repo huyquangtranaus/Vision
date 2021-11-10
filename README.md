@@ -7,7 +7,14 @@
 - NOAA
 - USGS
 - TACC
+- NCAR
+- ECMWF
+- MOi
+- ESA
+- CSIRO
+- WMO
+
 
 
 #### Open source organizations
-- 
+-
